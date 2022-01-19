@@ -1,0 +1,15 @@
+
+Topics
+
+
+1. Build a graph [adjancency metrix, List, Map etc ...]
+2. Traverse a graph : BFS + DFS
+3. Cyclic or Acyclic graph: BFS or DFS
+4. Shortest Path between source & destination node: BFS or Dijkstra
+5. Topological sorting
+6. Minimum Spanning Tree: Kruskal + Prims Algo)
+7. Backtracking Problems: (n-queen, Rat in Maze, Knight tour)
+8. Algos: Bellmen ford, Floyd warshall, TSP, flood fin, graph coloring, snake & ladder
+
+
+1. Build a graph [adjancency metrix, List, Map etc ...]
