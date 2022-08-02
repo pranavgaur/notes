@@ -1,0 +1,5 @@
+1. Prim's & Kruskal's Algorithms for creating minimum spanning tree
+2. Huffman coding & decoding
+3. activity selection problem
+4. Job sequence problem
+5. fractional Knapsack problem
